@@ -1,8 +1,12 @@
 Paul FERREIRA - 5999222006
 
 This is how the program run :
+After Clicking Save:
 
 ![Screenshot](Screens/screen_1.png)
+
+After Clicking Clear:
+
 ![Screenshot](Screens/screen_2.png)
 
 
